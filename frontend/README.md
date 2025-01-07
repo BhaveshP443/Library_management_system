@@ -80,6 +80,7 @@
     - Delete Borrower
 
         Same components codes have been used for delete borrower as well.
+        
          ![alt text](../DemoPreview/image-11.png)
 
 - # Book Borrow
@@ -96,7 +97,7 @@
 - # Book Return
     - Initially, all books have borrower field null means it is not borrowed by any user. The logic here is written like, the books will be shown in the booklist only if the book has some borrower (the book is checked out)
     User can verify the readOnly fields and then by typing "Return" and pressing the Return button to return the book:
-    
+
     ![alt text](../DemoPreview/image-12.png)
 
     
