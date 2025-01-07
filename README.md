@@ -15,7 +15,7 @@ cd backend
 npm install
 ```
 
-```
+
 5. Run the following command to start the server
 ```
 npm start
