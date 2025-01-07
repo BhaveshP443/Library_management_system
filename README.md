@@ -48,7 +48,6 @@ npm start
 # Note:
  - Run the server before running the client(else the client will not fetch data until the server is running)
  - the `npm start` command will start the server using nodemon. To change the behaviour, change the `start` script in `package.json` file in the `backend` directory
- - The project is still under development and hence the Demo UI or the video may not be exact same as the current UI
 
 # Contributed by:
  - Bhavesh Patidar [(github/BhaveshP443)](https://github.com/BhaveshP443)
