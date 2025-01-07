@@ -36,7 +36,7 @@
 
 
 - # Update
-        ![alt text](../DemoPreview/image-5.png)
+    ![alt text](../DemoPreview/image-5.png)
     - Update Book
         User can enter partial case insensitive book name or category and update the book with the following fields:
         on selecting the book from the booklist, user can update the book with the following fields:
@@ -60,7 +60,7 @@
         
 
 - # Delete
-        ![alt text](../DemoPreview/image-9.png)
+    ![alt text](../DemoPreview/image-9.png)
     - Delete Book
         User can enter partial case insensitive book name or category and delete the book with the following fields:
         on selecting the book from the booklist, user can re-check the values once, then by typing "delete" and pressing the Confirm Delete to delete the book from DB:

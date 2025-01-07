@@ -1,9 +1,9 @@
-Go to the link for the UI-Preview: [frontend/README.md](https://github.com/BhaveshP443/assignment/blob/main/frontend/README.md)
+Go to the link for the UI-Preview: [frontend/README.md](https://github.com/BhaveshP443/Library_management_system/blob/main/frontend/README.md)
 
 ## How to run the project
 1. Clone the repository
 ```
-git clone https://github.com/BhaveshP443/assignment.git
+git clone https://github.com/BhaveshP443/Library_management_system.git
 ```
 2. Open the terminal and navigate to the project directory
 ```
